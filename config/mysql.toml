@@ -1,0 +1,5 @@
+username = "root"
+Password = "komori"
+Ip = "127.0.0.1"
+Port = "3306"
+Database = "test"
